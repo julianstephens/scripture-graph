@@ -1,0 +1,12 @@
+# Generated files
+node_modules
+dist
+.DS_Store
+
+# TypeScript
+*.tsbuildinfo
+*.d.ts
+
+# Environment
+.env*
+!.env.example
